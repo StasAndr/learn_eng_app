@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Секреты и локальные настройки
+.env
+
+# Фронтенд (появится позже)
+node_modules/
+dist/
+
+# Редакторы и ОС
+.vscode/
+.idea/
+.DS_Store
